@@ -1,7 +1,7 @@
 <img src="header.png" alt="Artem, software engineer" width="100%">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,nestjs,dotnet,cs,postgres,redis,docker,prisma&theme=dark" alt="TypeScript, React, Next.js, Vite, Node.js, NestJS, .NET, C#, PostgreSQL, Redis, Docker, Prisma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,nestjs,dotnet,cs,postgres,redis,docker,prisma&theme=dark" alt="TypeScript, React, Next.js, Vite, Node.js, NestJS, .NET, C#, Python, Java, PostgreSQL, Redis, Docker, Prisma" />
 </p>
 
 Собираю продукты целиком: интерфейс, API и живое состояние в одном контуре. Веб-платформы, Telegram Mini Apps, realtime. Довожу до деплоя, а не до папки с прототипом. Изучаю DevOps.
@@ -11,7 +11,7 @@
 | Слой | Стек |
 |---|---|
 | Frontend | TypeScript, React, Next.js, Vite, Expo |
-| Backend | Node.js, NestJS, ASP.NET Core, WebSocket, Socket.IO |
+| Backend | Node.js, NestJS, ASP.NET Core, Python, Java, WebSocket, Socket.IO |
 | Data | PostgreSQL, Redis, Prisma |
 | Delivery | Docker, Git, Telegram Mini Apps |
 
