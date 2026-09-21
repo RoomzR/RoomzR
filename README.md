@@ -1,21 +1,45 @@
-<img src="banner.png" alt="Ночь в клубе: наушники с ушками, дождь за окном и тёплый монитор" width="100%">
+<p align="center">
+  <img src="banner.png" alt="Artem, cs2 and clubs" width="100%">
+</p>
 
-### Артём
+### about
 
-Делаю софт для компьютерных клубов и для CS2. Живые вето карт, разбор демо, задачи смены и кабинеты, в которых администратор не теряется. Больше всего люблю Telegram Mini Apps и матчи, которые обновляются сразу, без перезагрузки.
+Делаю софт для компьютерных клубов и CS2: живые вето карт, разбор демо, задачи смены и кабинеты администратора. Больше всего люблю Telegram Mini Apps, где матч обновляется сразу.
 
-Написать можно в [Telegram](https://t.me/Roomzrly) или на [rudenbelstad@gmail.com](mailto:rudenbelstad@gmail.com).
+[Telegram](https://t.me/Roomzrly) · [rudenbelstad@gmail.com](mailto:rudenbelstad@gmail.com)
 
-| | |
-|---|---|
-| Интерфейс | TypeScript, React, Next.js, Vite |
-| Сервер | Node.js, NestJS, ASP.NET Core |
-| Данные | PostgreSQL, Redis, Prisma |
-| Живое | WebSocket, Socket.IO, Telegram Mini Apps |
-| Рядом | Docker, Expo, .NET |
+---
 
-**[PicksMaps](https://github.com/RoomzR/PicksMaps)** — вето карт прямо в Telegram. Капитаны банят, пикают и выбирают сторону, пока все ещё в лобби.
+### core skills
 
-**[TravelAgency](https://github.com/RoomzR/TravelAgency)** — учебная платформа турагентства на C#. Отдельные слои и живые страницы.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,nodejs,nestjs,dotnet,cs,postgres,redis,docker,prisma&theme=dark" alt="core skills" />
+</p>
 
-Клубы, площадка матчей и сервис взаимопомощи пока в закрытых репозиториях.
+- **languages**: TypeScript · JavaScript · C# · SQL
+- **frontend**: React · Next.js · Vite · Expo
+- **backend**: Node.js · NestJS · ASP.NET Core · WebSocket · Socket.IO
+- **data**: PostgreSQL · Redis · Prisma
+- **tools**: Docker · Git · Telegram Mini Apps
+
+---
+
+### featured projects
+
+#### [PicksMaps](https://github.com/RoomzR/PicksMaps)
+**Вето карт CS2 в Telegram**
+
+Капитаны банят и пикают карты вживую, потом выбирают сторону. Админ создаёт матч и отдаёт ссылки, состояние приходит по сокету.
+
+#### [TravelAgency](https://github.com/RoomzR/TravelAgency)
+**Учебная платформа турагентства** — *ASP.NET Core*
+
+Слои разделены, страницы живые. Курсовая, собранная как обычное приложение, а не одна форма на весь сайт.
+
+---
+
+### activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoomzR&theme=dark&hide_border=true" alt="GitHub streak" height="150" />
+</p>
