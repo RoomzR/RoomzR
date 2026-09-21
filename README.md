@@ -4,7 +4,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,nestjs,dotnet,cs,postgres,redis,docker,prisma&theme=dark" alt="TypeScript, React, Next.js, Vite, Node.js, NestJS, .NET, C#, PostgreSQL, Redis, Docker, Prisma" />
 </p>
 
-Собираю продукты целиком: интерфейс, API и живое состояние в одном контуре. Веб-платформы, Telegram Mini Apps, realtime. Довожу до деплоя, а не до папки с прототипом.
+Собираю продукты целиком: интерфейс, API и живое состояние в одном контуре. Веб-платформы, Telegram Mini Apps, realtime. Довожу до деплоя, а не до папки с прототипом. Изучаю DevOps.
 
 [Telegram](https://t.me/Roomzrly) · [rudenbelstad@gmail.com](mailto:rudenbelstad@gmail.com)
 
