@@ -8,10 +8,12 @@
 
 [Telegram](https://t.me/Roomzrly) · [rudenbelstad@gmail.com](mailto:rudenbelstad@gmail.com)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RoomzR&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c10&title_color=f6f6f4&icon_color=d4af37&text_color=a8aeb6&hide_rank=false" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoomzR&layout=compact&theme=dark&hide_border=true&bg_color=0a0c10&title_color=f6f6f4&text_color=a8aeb6" alt="Top languages" height="170" />
-</p>
+| Слой | Стек |
+|---|---|
+| Frontend | TypeScript, React, Next.js, Vite, Expo |
+| Backend | Node.js, NestJS, ASP.NET Core, WebSocket, Socket.IO |
+| Data | PostgreSQL, Redis, Prisma |
+| Delivery | Docker, Git, Telegram Mini Apps |
 
 ### Избранное
 
@@ -24,5 +26,3 @@
 **[CyberXTasks](https://github.com/RoomzR/CyberXTasks)** — задачи команды в Telegram Mini App, с ботом только для уведомлений.
 
 **[TravelAgency](https://github.com/RoomzR/TravelAgency)** — платформа турагентства на ASP.NET Core, со слоями Web, BLL и DAL.
-
-TypeScript, React, Next.js, Node.js, NestJS, ASP.NET Core, PostgreSQL, Redis, Prisma, Docker, WebSocket.
