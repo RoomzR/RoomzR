@@ -1,45 +1,18 @@
-<p align="center">
-  <img src="banner.png" alt="Artem, cs2 and clubs" width="100%">
-</p>
+<img src="header.png" alt="Artem, software engineer" width="100%">
 
-### about
-
-Делаю софт для компьютерных клубов и CS2: живые вето карт, разбор демо, задачи смены и кабинеты администратора. Больше всего люблю Telegram Mini Apps, где матч обновляется сразу.
+Проектирую и довожу до продакшена realtime-системы: Telegram Mini Apps, инструменты для CS2 и платформы компьютерных клубов. Интерфейс, API и состояние матча держатся в одном контуре.
 
 [Telegram](https://t.me/Roomzrly) · [rudenbelstad@gmail.com](mailto:rudenbelstad@gmail.com)
 
----
+### Стек
 
-### core skills
+TypeScript, React, Next.js, Node.js, NestJS, ASP.NET Core.  
+PostgreSQL, Redis, Prisma, Docker, WebSocket, Socket.IO.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,nodejs,nestjs,dotnet,cs,postgres,redis,docker,prisma&theme=dark" alt="core skills" />
-</p>
+### Из открытого
 
-- **languages**: TypeScript · JavaScript · C# · SQL
-- **frontend**: React · Next.js · Vite · Expo
-- **backend**: Node.js · NestJS · ASP.NET Core · WebSocket · Socket.IO
-- **data**: PostgreSQL · Redis · Prisma
-- **tools**: Docker · Git · Telegram Mini Apps
+**[PicksMaps](https://github.com/RoomzR/PicksMaps)** — вето карт CS2 в Telegram. Админ создаёт матч, капитаны банят и пикают, затем выбирают сторону. Состояние расходится по сокету.
 
----
+**[TravelAgency](https://github.com/RoomzR/TravelAgency)** — платформа турагентства на ASP.NET Core. Слои разделены, интерфейс серверный.
 
-### featured projects
-
-#### [PicksMaps](https://github.com/RoomzR/PicksMaps)
-**Вето карт CS2 в Telegram**
-
-Капитаны банят и пикают карты вживую, потом выбирают сторону. Админ создаёт матч и отдаёт ссылки, состояние приходит по сокету.
-
-#### [TravelAgency](https://github.com/RoomzR/TravelAgency)
-**Учебная платформа турагентства** — *ASP.NET Core*
-
-Слои разделены, страницы живые. Курсовая, собранная как обычное приложение, а не одна форма на весь сайт.
-
----
-
-### activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoomzR&theme=dark&hide_border=true" alt="GitHub streak" height="150" />
-</p>
+Клубы, площадка матчей и сервис взаимопомощи лежат в закрытых репозиториях.
