@@ -31,7 +31,6 @@ Full-stack инженер: интерфейс, API и **realtime** в одном
 | | |
 | :--- | :--- |
 | **[PicksMaps](https://github.com/RoomzR/PicksMaps)** | Вето карт в Telegram: BO1–BO5, баны/пики, выбор CT/T, live-состояние матча. |
-| **[AnalyticsCS2](https://github.com/RoomzR/AnalyticsCS2)** | Разбор демо: карта, раунды, гранаты, аналитика игроков, API + React. |
 | **[ClutchLab-TG](https://github.com/RoomzR/ClutchLab-TG)** | ClutchLab: парсинг демо, FastAPI, фронт, Docker. |
 | **[ByHLTV_Final](https://github.com/RoomzR/ByHLTV_Final)** | HLTV-style платформа: Next.js, NestJS, Prisma, live и админ-потоки. |
 | **[GCL](https://github.com/RoomzR/GCL)** | Gomel Cyber League: сезон, команды, результаты, live HUD, админка на Next.js. |
