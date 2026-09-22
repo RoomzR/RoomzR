@@ -13,7 +13,7 @@
 | Слой | Стек |
 |---|---|
 | Frontend | TypeScript, React, Next.js, Vite, Expo |
-| Backend | Node.js, NestJS, ASP.NET Core, Python, Java, WebSocket, Socket.IO |
+| Backend | Node.js, NestJS, ASP.NET Core, Python, Java, C#, C++, C, WebSocket, Socket.IO |
 | Vision | OpenCV, YOLOv8, EasyOCR, RTSP / Hikvision |
 | Data | PostgreSQL, Redis, Prisma |
 | Delivery | Docker, Git, Telegram Mini Apps |
