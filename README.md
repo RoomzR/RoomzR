@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://t.me/Roomzrly"><img src="https://img.shields.io/badge/Telegram-@Roomzrly-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:rudenbelstad@gmail.com"><img src="https://img.shields.io/badge/Email-rudenbelstad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:rudenroomz@gmail.com"><img src="https://img.shields.io/badge/Email-rudenroomz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 Full-stack инженер: интерфейс, API и **realtime** в одном продукте. Веб, Telegram Mini Apps, сокеты, деплой и DevOps. От идеи до работающего сервиса, а не до папки с прототипом.
