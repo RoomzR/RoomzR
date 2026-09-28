@@ -50,6 +50,7 @@ Full-stack инженер: интерфейс, API и **realtime** в одном
 | | |
 | :--- | :--- |
 | **[devops-tutor](https://github.com/RoomzR/devops-tutor)** | Telegram-наставник Junior DevOps/SE: Mini App, курсы, лабы, проект Pulse. |
+| **[Птицезор](https://github.com/RoomzR/pticezor)** | Окно для птичника: падёж по теплу, вес по кадру, схема зала. Хакатон «Код Будущего». |
 | **[BotNotification](https://github.com/RoomzR/BotNotification)** | RTSP-камеры → YOLO по зоне → алерты в Telegram и на desktop. |
 | **[Belorusneft](https://github.com/RoomzR/Belorusneft)** | Скан номеров с фото: YOLO + OCR, Sheets, лог и GPS АЗС в Telegram. |
 | **[CyberxNotification](https://github.com/RoomzR/CyberxNotification)** | Сервис уведомлений для экосистемы CyberX. |
