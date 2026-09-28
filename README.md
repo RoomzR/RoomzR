@@ -21,6 +21,7 @@ Full-stack инженер: интерфейс, API и **realtime** в одном
 | **Vision** | OpenCV, YOLOv8, EasyOCR, RTSP / Hikvision |
 | **Data** | PostgreSQL, Redis, Prisma, PostGIS |
 | **Ops** | Docker, Git, CI, Linux, Telegram Mini Apps |
+| **AI** | Cursor, Codex |
 
 ---
 
